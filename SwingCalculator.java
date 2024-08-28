@@ -11,7 +11,7 @@ public class SwingCalculator extends JFrame implements ActionListener {
     private JButton decButton, equButton, delButton, clrButton;
     private JPanel panel;
 
-    public Calculator() {
+    public SwingCalculator() {
         // Frame setup
         setTitle("Calculator");
         setSize(420, 550);
@@ -187,6 +187,6 @@ public class SwingCalculator extends JFrame implements ActionListener {
 
     // Main method
     public static void main(String[] args) {
-        new Calculator();
+        new SwingCalculator();
     }
 }
