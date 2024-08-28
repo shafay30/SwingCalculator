@@ -4,8 +4,7 @@ This program is a Java Swing-based calculator with a simple graphical interface 
 Limitations:
 - The calculator only supports basic arithmetic operations and does not handle complex expressions like those with parentheses or 
   exponentiation.
-- Operator precedence is not fully respected; operations are evaluated sequentially from left to right, which may lead to incorrect 
-  results for certain expressions.
+- Operator precedence is not fully respected; operations are evaluated sequentially from left to right.
 - Error handling is minimal and may display incorrect results or "Error" for invalid input or division by zero.
 
 
