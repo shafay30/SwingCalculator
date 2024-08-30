@@ -13,7 +13,7 @@ public class SwingCalculator extends JFrame implements ActionListener {
 
     public SwingCalculator() {
         // Frame setup
-        setTitle("Calculator");
+        setTitle("SwingCalculator");
         setSize(420, 550);
         setLayout(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
